@@ -1,0 +1,5 @@
+There are 3 algorithms :
+
+1. head approximation
+2. tail approximation
+3. graph model iht algorithm
