@@ -22,7 +22,7 @@ import org.apache.commons.lang3.ArrayUtils;
 import apdmIO.APDMInputFormat;
 import graphModelIHT.GraphModelIHT;
 
-public class MulticoreRunner {
+public class Final_mexico_normal1 {
 	private double max_score = 0;
 	private int[] best_subgraph;
 	private List<String> ignore_words = new ArrayList<String>();
@@ -33,11 +33,11 @@ public class MulticoreRunner {
 	private List<Double> weights;
 	private String up_down;
 
-	public MulticoreRunner(){
+	public Final_mexico_normal1(){
 		this.is_first_time = true;
 	}
 	
-	public MulticoreRunner(String month_folder, String result_folder, String up_down) throws IOException{
+	public Final_mexico_normal1(String month_folder, String result_folder, String up_down) throws IOException{
 		String month_path = month_folder;
 		String date = month_path.substring(month_path.lastIndexOf("/") - 8,month_path.lastIndexOf("/") );
 		this.is_first_time = true;
@@ -228,7 +228,7 @@ public class MulticoreRunner {
 	
 	public static void run_single_month(String root, String filename) throws IOException{
 		long startTime=System.currentTimeMillis();
-		MulticoreRunner runner = new MulticoreRunner();
+		Final_mexico_normal1 runner = new Final_mexico_normal1();
 		runner.run_timewindow(root, filename);
 		System.out.println(runner.temp_words.stream().collect(Collectors.joining(", ")));
 		long endTime2=System.currentTimeMillis();
@@ -258,7 +258,7 @@ public class MulticoreRunner {
 					file.mkdirs();
 				}
 				pool.execute(new Thread(){ public void run(){
-					try {new MulticoreRunner(s[0],writePath,ud);}
+					try {new Final_mexico_normal1(s[0],writePath,ud);}
 					catch (IOException e) {e.printStackTrace();}
 					}
 				});
@@ -272,15 +272,19 @@ public class MulticoreRunner {
 		if (!file.exists()) {
 			file.mkdirs();
 		}
-		new MulticoreRunner(month_folder,result_folder,up_down);
+		new Final_mexico_normal1(month_folder,result_folder,up_down);
 	}
 	
 	public static void main(String[] args) throws IOException {
 		//run_multicore();
 		//run_single_month("data/venezuela/2014_02/", "2014-02-01_5_graph.txt");
 		//run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_01/","/home/zhanglei/results/venezuela/up/","up");
-		run_instance("data/mexico/2014_01/","output/venezuela/up/","up");
-
+		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_01/","/home/zhanglei/results/mexico/up_and_down/","normal");
+		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_02/","/home/zhanglei/results/mexico/up_and_down/","normal");
+		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_03/","/home/zhanglei/results/mexico/up_and_down/","normal");
+		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_04/","/home/zhanglei/results/mexico/up_and_down/","normal");
+		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_05/","/home/zhanglei/results/mexico/up_and_down/","normal");
+		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_06/","/home/zhanglei/results/mexico/up_and_down/","normal");
 	}
 
 }
