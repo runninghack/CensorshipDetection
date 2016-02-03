@@ -23,30 +23,16 @@ import apdmIO.APDMInputFormat;
 import graphModelIHT.GraphModelIHT;
 
 public class MulticoreRunner {
-	//================== Setters and getters start =====================
 	private double max_score = 0;
-
-
 	private int[] best_subgraph;
-
-	
 	private List<String> ignore_words;
-
 	private List<String> temp_words;
-
 	private boolean is_first_time;
-
-	
 	private String bestWindow;
-
-	
 	private List<String[]> subgraph;
-
 	private List<Double> weights;
-
 	private String up_down;
 
-	//================== Setters and getters end =====================
 	public MulticoreRunner(){
 		this.is_first_time = true;
 	}
