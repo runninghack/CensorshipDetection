@@ -55,27 +55,27 @@ public class MulticoreRunner {
 			fileWriter.write(String.valueOf(i) + "," + this.bestWindow + "," + words_String + "\n");
 			
 			writeGraph(result_folder + date + "_" + String.valueOf(i) + "_graph.txt", this.temp_words,this.weights,this.subgraph);
-			
+			this.temp_words = new ArrayList<String>();
 			this.is_first_time=false;
 		}
 		fileWriter.close();
 	}
 	
 	private void run_month(String folder_path) throws IOException {
+		System.out.println(folder_path);
 		long startTime=System.currentTimeMillis();
 		File folder = new File(folder_path);
 		File[] files = folder.listFiles();
 
 		List<File> listOfFiles=Arrays.asList(files);
 		List<File> graphFiles = listOfFiles.stream()
-			    .filter(f -> f.getName().contains("graph")).collect(Collectors.toList());
+			    .filter(f -> f.getName().contains("_1_graph")).collect(Collectors.toList());
 		this.max_score = 0;
 		for(int i=0;i<graphFiles.size();i++){
 			String fname = graphFiles.get(i).getName();
 			this.run_timewindow(folder_path,fname);
 		}
 		this.ignore_words.addAll(this.temp_words);
-		this.temp_words = new ArrayList<String>();
 		long endTime=System.currentTimeMillis();
 		System.out.println("***" + folder_path + " done in:" + String.valueOf(endTime-startTime) + "***");
 	}
@@ -103,7 +103,7 @@ public class MulticoreRunner {
 	}
 
 	public void run_timewindow(String rootFolder, String filename) throws IOException{
-		//System.out.println(filename);
+		System.out.println(filename);
 		long startTime=System.currentTimeMillis();
 		//R
 		//String[] elements = filename.split("_", -1);
@@ -202,7 +202,7 @@ public class MulticoreRunner {
 			this.weights = weights;
 		}
 		long endTime2=System.currentTimeMillis();
-		//System.out.println(String.valueOf(endTime2-startTime));
+		System.out.println(String.valueOf(endTime2-startTime));
 	}
 	
 	private static List<String> get_subfolders(String folder){
@@ -278,7 +278,9 @@ public class MulticoreRunner {
 	public static void main(String[] args) throws IOException {
 		//run_multicore();
 		//run_single_month("data/venezuela/2014_02/", "2014-02-01_5_graph.txt");
-		run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_01/","/home/zhanglei/results/venezuela/up/","up");
+		//run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_01/","/home/zhanglei/results/venezuela/up/","up");
+		run_instance("data/mexico/2014_01/","output/venezuela/up/","up");
+
 	}
 
 }
