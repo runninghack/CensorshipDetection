@@ -278,8 +278,11 @@ public class MulticoreRunner {
 		pool.shutdown();
 	}
 	
+	
 	public static void main(String[] args) throws IOException {
-		run_multicore();
+		//run_multicore();
 		//run_single_month("data/venezuela/2014_02/", "2014-02-01_5_graph.txt");
+		new MulticoreRunner("/home/tayu/venezuela/aggregate_graph/outputs/2014_01/","/home/rrtao/venezuela/up/","up");
 	}
+
 }
