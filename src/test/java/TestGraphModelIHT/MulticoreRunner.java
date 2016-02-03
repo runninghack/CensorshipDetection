@@ -140,24 +140,27 @@ public class MulticoreRunner {
 			edges.add(new Integer[]{edge[0],edge[1]}) ;
 		}
 		double[] c = apdm.getPValue();
+		double[] c2 = new double[c.length];
+		for(int i=0;i<c.length;i++){
+			c2[i] = c[i];
+		}
 		
 		//detect only up or down
 		if(this.up_down.equals("down")){
 			for(int i=0;i<c.length;i++){
-				if(c[i] > lambdas[i]){
-					c[i] = lambdas[i];
+				if(c2[i] > lambdas[i]){
+					c2[i] = lambdas[i];
 				}
 			}
 		}else if(this.up_down.equals("up")){
 			for(int i=0;i<c.length;i++){
-				if(c[i] < lambdas[i]){
-					c[i] = lambdas[i];
+				if(c2[i] < lambdas[i]){
+					c2[i] = lambdas[i];
 				}
 			}
 		}
 		
-		//adjust most anomalous nodes in order to detect other anomalous nodes
-		double[] c2 = new double[c.length];
+		
 		if(!this.is_first_time){
 			for(String iw: this.ignore_words){
 				for(int i=0;i<apdm.numNodes;i++){
