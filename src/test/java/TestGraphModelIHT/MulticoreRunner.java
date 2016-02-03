@@ -25,7 +25,7 @@ import graphModelIHT.GraphModelIHT;
 public class MulticoreRunner {
 	private double max_score = 0;
 	private int[] best_subgraph;
-	private List<String> ignore_words;
+	private List<String> ignore_words = new ArrayList<String>();
 	private List<String> temp_words;
 	private boolean is_first_time;
 	private String bestWindow;
@@ -264,11 +264,18 @@ public class MulticoreRunner {
 		pool.shutdown();
 	}
 	
+	public static void run_instance(String month_folder, String result_folder, String up_down)throws IOException {
+		File file = new File(result_folder);
+		if (!file.exists()) {
+			file.mkdirs();
+		}
+		new MulticoreRunner(month_folder,result_folder,up_down);
+	}
 	
 	public static void main(String[] args) throws IOException {
 		//run_multicore();
 		//run_single_month("data/venezuela/2014_02/", "2014-02-01_5_graph.txt");
-		new MulticoreRunner("/home/tayu/venezuela/aggregate_graph/outputs/2014_01/","/home/rrtao/venezuela/up/","up");
+		run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_01/","/home/zhanglei/results/venezuela/up/","up");
 	}
 
 }
