@@ -1,0 +1,11 @@
+guerrero	owens	mind	amlo	white	caso	ruckin_andrew	cc14	iguala	marchan	
+15071.0	602.0	948.0	1066.0	2393.0	12953.0	5847.0	2946.0	17103.0	1803.0	
+amlo	iguala
+guerrero	iguala
+amlo	cc14
+mind	ruckin_andrew
+white	cc14
+white	ruckin_andrew
+iguala	marchan
+owens	white
+guerrero	caso

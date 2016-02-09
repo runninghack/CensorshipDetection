@@ -1,0 +1,24 @@
+haber	guerreros	gracias	estos	justiciaparaayotzinapa	desaparecidos	facebook	please	amaga	exige	agrupaciu00f3n	marchan	parte	iguala	
+4583.0	1176.0	34796.0	6076.0	3103.0	6307.0	10492.0	15558.0	52.0	982.0	177.0	1427.0	9311.0	19780.0	
+estos	desaparecidos
+justiciaparaayotzinapa	iguala
+exige	iguala
+justiciaparaayotzinapa	exige
+marchan	iguala
+gracias	parte
+amaga	agrupaciu00f3n
+facebook	parte
+guerreros	iguala
+desaparecidos	iguala
+parte	iguala
+haber	facebook
+justiciaparaayotzinapa	desaparecidos
+guerreros	amaga
+gracias	please
+guerreros	agrupaciu00f3n
+desaparecidos	marchan
+justiciaparaayotzinapa	marchan
+gracias	estos
+desaparecidos	parte
+estos	iguala
+estos	justiciaparaayotzinapa

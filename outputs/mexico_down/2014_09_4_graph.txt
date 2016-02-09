@@ -1,0 +1,21 @@
+impactu00f3	patrias	iphone	u00a1viva	grito	vivamexico	ojalu00e1	odile	septiembre	banazbrodie	mu00e9xicopuebla	fiestas	u00a1ven	
+80.0	2007.0	6558.0	1220.0	3253.0	1187.0	2859.0	4865.0	8800.0	907.0	321.0	2557.0	377.0	
+septiembre	u00a1ven
+odile	septiembre
+u00a1viva	fiestas
+iphone	banazbrodie
+impactu00f3	odile
+impactu00f3	mu00e9xicopuebla
+iphone	septiembre
+patrias	septiembre
+grito	vivamexico
+septiembre	fiestas
+vivamexico	septiembre
+vivamexico	fiestas
+patrias	fiestas
+iphone	ojalu00e1
+grito	u00a1ven
+u00a1viva	septiembre
+grito	septiembre
+patrias	u00a1viva
+u00a1viva	grito

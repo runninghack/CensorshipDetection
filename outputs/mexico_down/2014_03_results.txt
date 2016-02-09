@@ -1,0 +1,5 @@
+0,2014-03-06_7_graph.txt,clave	mexico	toranzo	today	and	filu00f3sofo	consejeros	marzo	del	villoro	mu00e9xico	espau00f1a	radiation
+1,2014-03-03_10_graph.txt,valores	marzo	del	desastres	demu00e1s
+2,2014-03-18_10_graph.txt,_armandohoyos_	pesos	kilo	pasos	mauriciogongora	limu00f3n
+3,2014-03-02_10_graph.txt,hoy	the	viendo	mal	milu00e1n	come	del	reconocen	joserra_espn	arrived	das	stats	magosjm
+4,2014-03-08_8_graph.txt,haha	clave	tres	the	for	than	first	siete	del	nueve	kca	resultado

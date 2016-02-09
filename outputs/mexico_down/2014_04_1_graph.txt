@@ -1,0 +1,15 @@
+total	abril	color	tu00fa	u00bb	llaman	epnvsinternet	veru00e1s	sentimientos	hacerte	comienzan	
+2768.0	11923.0	2832.0	20366.0	334.0	1112.0	30131.0	704.0	3656.0	1638.0	635.0	
+total	abril
+llaman	sentimientos
+tu00fa	veru00e1s
+total	color
+u00bb	epnvsinternet
+abril	epnvsinternet
+veru00e1s	comienzan
+tu00fa	epnvsinternet
+epnvsinternet	comienzan
+tu00fa	u00bb
+llaman	epnvsinternet
+veru00e1s	hacerte
+tu00fa	hacerte

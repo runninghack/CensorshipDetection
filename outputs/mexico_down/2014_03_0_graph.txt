@@ -1,0 +1,21 @@
+clave	mexico	toranzo	today	and	filu00f3sofo	consejeros	marzo	del	villoro	mu00e9xico	espau00f1a	radiation	
+861.0	35682.0	53.0	5941.0	26374.0	659.0	323.0	14697.0	89051.0	1564.0	43416.0	1410.0	68.0	
+toranzo	villoro
+mexico	radiation
+consejeros	marzo
+marzo	del
+mexico	marzo
+mexico	del
+marzo	villoro
+mexico	today
+mexico	espau00f1a
+marzo	mu00e9xico
+del	espau00f1a
+filu00f3sofo	villoro
+today	and
+toranzo	filu00f3sofo
+mexico	mu00e9xico
+clave	del
+mu00e9xico	espau00f1a
+mexico	and
+del	mu00e9xico

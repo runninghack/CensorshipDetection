@@ -1,0 +1,5 @@
+0,2014-05-11_9_graph.txt,don	mayo	pachuca	maestro	lorenzo	echuayffet	gobiernohidalgo	podru00edas	lu00edmite	consejo	recuerda	debemos
+1,2014-05-18_8_graph.txt,pase	estaru00e9	estatal	sinhue	amo	besos	sntenacional	magisterio	cambios	reformaeducativa	quiero
+2,2014-05-23_8_graph.txt,algu00fan	reconocimiento	sigas	rbasuraxalimentos	carrera	sentimientos	pensando	seru00e1	orgullosamenteconalep	importante	mejor
+3,2014-05-06_10_graph.txt,ejemplo	puedes	algo	mu00e1s	mamu00e1	mente	cambios	lu00edmite	recuerda	regalarle
+4,2014-05-17_9_graph.txt,plate	aparece	veo	atleti	unidad	argentina	felicidades	inaugura	ganadores	au00f1os	mis

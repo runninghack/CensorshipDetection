@@ -1,0 +1,5 @@
+0,2014-10-21_10_graph.txt,ayotzinapa	mayor	sol	navarreterecibemillonesdeaguirre	eltiotonysoy	acapulco	asesinan	desaparecidos	marcha	parcial	losmillonesdelprd	pago
+1,2014-10-11_8_graph.txt,artista	maravillosa	veelkan	quimera2014	aunque_te_duela	ud83dude24	aplausos
+2,2014-10-21_10_graph.txt,mayor	sol	navarreterecibemillonesdeaguirre	eltiotonysoy	acapulco	asesinan	desaparecidos	marcha	parcial	losmillonesdelprd	pago
+3,2014-10-08_10_graph.txt,guerrero	owens	mind	amlo	white	caso	ruckin_andrew	cc14	iguala	marchan
+4,2014-10-03_9_graph.txt,haber	guerreros	gracias	estos	justiciaparaayotzinapa	desaparecidos	facebook	please	amaga	exige	agrupaciu00f3n	marchan	parte	iguala

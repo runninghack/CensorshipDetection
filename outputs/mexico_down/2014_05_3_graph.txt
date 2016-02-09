@@ -1,0 +1,13 @@
+ejemplo	puedes	algo	mu00e1s	mamu00e1	mente	cambios	lu00edmite	recuerda	regalarle	
+2252.0	14268.0	28037.0	104870.0	16607.0	5111.0	1447.0	736.0	7270.0	249.0	
+algo	mente
+algo	mamu00e1
+ejemplo	algo
+puedes	cambios
+mu00e1s	recuerda
+lu00edmite	recuerda
+mu00e1s	mamu00e1
+ejemplo	mente
+puedes	mente
+mu00e1s	regalarle
+mamu00e1	regalarle

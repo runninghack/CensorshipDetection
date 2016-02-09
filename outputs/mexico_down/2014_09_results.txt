@@ -1,0 +1,5 @@
+0,2014-09-02_10_graph.txt,sentir	epn	pdte	nada
+1,2014-09-20_7_graph.txt,goles	oigan	politu00e9cnica	ipn	voca	todossomospolitu00e9cnico	javier	dices	miguel	chicharito	plan	que
+2,2014-09-03_10_graph.txt,manda	plus	nosoymickey	septiembre	mariobautista_	mezcalesmexico	auditorio	maguey	realmentepienso	twitter	au00f1os
+3,2014-09-15_9_graph.txt,top	vacaciones	siento	restablecer	that	frasesdeahora	pasar	are	nuestro	from	que	reactivaciu00f3n	mis	like	bcs
+4,2014-09-10_6_graph.txt,impactu00f3	patrias	iphone	u00a1viva	grito	vivamexico	ojalu00e1	odile	septiembre	banazbrodie	mu00e9xicopuebla	fiestas	u00a1ven

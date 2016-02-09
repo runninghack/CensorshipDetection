@@ -1,0 +1,5 @@
+0,2014-02-17_10_graph.txt,nunca	fam	su00ed	iqueemma	mis	vida
+1,2014-02-01_7_graph.txt,polu00edtica	febrero	hrs	constituciu00f3n	pasiones	vagoneros	patria	vive	presentaremos	congresopopular
+2,2014-02-03_10_graph.txt,hay	tienes	rodean	buscar	lado	mal	generalmente	que	seguro	pensar	ese
+3,2014-02-15_10_graph.txt,venezuela	perder	imagen	lu00edderes	fav	competitiva	chapo	detenciu00f3n	pumas
+4,2014-02-15_10_graph.txt,venezuela	perder	imagen	lu00edderes	fav	competitiva	chapo	detenciu00f3n	pumas

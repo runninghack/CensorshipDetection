@@ -1,0 +1,13 @@
+u2665	u2716	fuerzas	empieza	nu2014	sigueme	u2764ufe0f	u00bftienes	amo	au00f1os	protecciu00f3n	
+4026.0	758.0	2081.0	1042.0	2860.0	8106.0	3562.0	1071.0	11732.0	11179.0	952.0	
+u2665	amo
+nu2014	au00f1os
+nu2014	u00bftienes
+fuerzas	amo
+sigueme	u00bftienes
+empieza	au00f1os
+u2764ufe0f	amo
+u2716	sigueme
+u2665	sigueme
+amo	au00f1os
+u00bftienes	protecciu00f3n

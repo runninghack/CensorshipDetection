@@ -1,0 +1,8 @@
+_armandohoyos_	pesos	kilo	pasos	mauriciogongora	limu00f3n	
+2617.0	6272.0	651.0	1953.0	2714.0	2593.0	
+_armandohoyos_	pasos
+pesos	kilo
+kilo	limu00f3n
+_armandohoyos_	limu00f3n
+pesos	mauriciogongora
+pesos	limu00f3n

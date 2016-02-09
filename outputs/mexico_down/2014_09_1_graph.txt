@@ -1,0 +1,18 @@
+goles	oigan	politu00e9cnica	ipn	voca	todossomospolitu00e9cnico	javier	dices	miguel	chicharito	plan	que	
+2789.0	858.0	96.0	5481.0	161.0	1578.0	1550.0	2327.0	2516.0	4745.0	2623.0	491615.0	
+goles	javier
+ipn	plan
+oigan	ipn
+ipn	todossomospolitu00e9cnico
+javier	que
+chicharito	que
+plan	que
+oigan	todossomospolitu00e9cnico
+miguel	que
+ipn	voca
+dices	que
+javier	chicharito
+goles	chicharito
+politu00e9cnica	ipn
+todossomospolitu00e9cnico	plan
+goles	que

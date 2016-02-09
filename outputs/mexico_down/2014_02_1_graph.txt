@@ -1,0 +1,14 @@
+polu00edtica	febrero	hrs	constituciu00f3n	pasiones	vagoneros	patria	vive	presentaremos	congresopopular	
+1870.0	18140.0	2571.0	2245.0	133.0	487.0	984.0	2111.0	152.0	1798.0	
+febrero	congresopopular
+polu00edtica	febrero
+hrs	presentaremos
+febrero	vagoneros
+patria	congresopopular
+hrs	congresopopular
+febrero	vive
+febrero	hrs
+patria	presentaremos
+polu00edtica	constituciu00f3n
+pasiones	vive
+febrero	constituciu00f3n

@@ -1,0 +1,15 @@
+mayor	sol	navarreterecibemillonesdeaguirre	eltiotonysoy	acapulco	asesinan	desaparecidos	marcha	parcial	losmillonesdelprd	pago	
+4589.0	5617.0	10315.0	611.0	2072.0	926.0	11028.0	6151.0	1388.0	3776.0	1199.0	
+eltiotonysoy	desaparecidos
+eltiotonysoy	marcha
+desaparecidos	marcha
+desaparecidos	losmillonesdelprd
+sol	parcial
+navarreterecibemillonesdeaguirre	pago
+sol	navarreterecibemillonesdeaguirre
+losmillonesdelprd	pago
+mayor	marcha
+acapulco	asesinan
+sol	losmillonesdelprd
+navarreterecibemillonesdeaguirre	losmillonesdelprd
+asesinan	desaparecidos

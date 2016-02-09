@@ -1,0 +1,5 @@
+0,2014-01-09_10_graph.txt,street	epn	happy	change	1youngscooter	mariobautista_	buenas	michoacan	autodefensas	mejor	stay
+1,2014-01-22_5_graph.txt,corte	feo	recibir	tamayo	consejos	debes	mujeres	darle	ponerte	aborto	mujer	hombres	vas
+2,2014-01-09_10_graph.txt,street	epn	happy	change	1youngscooter	mariobautista_	buenas	michoacan	autodefensas	mejor	stay
+3,2014-01-14_5_graph.txt,u2665	u2716	fuerzas	empieza	nu2014	sigueme	u2764ufe0f	u00bftienes	amo	au00f1os	protecciu00f3n
+4,2014-01-14_5_graph.txt,u2665	u2716	fuerzas	empieza	sigueme	u2764ufe0f	amo	au00f1os

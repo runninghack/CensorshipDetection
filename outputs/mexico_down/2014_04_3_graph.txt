@@ -1,0 +1,12 @@
+entrar	abril	escucho	pase	tu00fa	soloconfesion	redes	liguilla	mesientobiencuando	pru00f3ximo	gran	
+1352.0	9098.0	1136.0	3104.0	16873.0	5499.0	3820.0	2435.0	785.0	1998.0	10118.0	
+tu00fa	soloconfesion
+abril	pru00f3ximo
+escucho	gran
+pase	soloconfesion
+pru00f3ximo	gran
+pase	liguilla
+abril	redes
+entrar	liguilla
+tu00fa	redes
+escucho	mesientobiencuando

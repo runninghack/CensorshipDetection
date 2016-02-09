@@ -1,0 +1,10 @@
+venezuela	perder	imagen	lu00edderes	fav	competitiva	chapo	detenciu00f3n	pumas	
+29904.0	4950.0	4408.0	2092.0	7899.0	122.0	24107.0	3929.0	4393.0	
+lu00edderes	competitiva
+chapo	pumas
+perder	pumas
+venezuela	chapo
+fav	chapo
+venezuela	imagen
+venezuela	lu00edderes
+chapo	detenciu00f3n

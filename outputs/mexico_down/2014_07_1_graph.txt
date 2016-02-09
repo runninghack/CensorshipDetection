@@ -1,0 +1,12 @@
+germany	rodru00edguez	rafael	love	worldcupfinal	happy	record_mexico	large	marco	felicito	birthday	
+8822.0	2514.0	820.0	23802.0	2253.0	5621.0	3147.0	40.0	1296.0	1994.0	3658.0	
+germany	worldcupfinal
+rodru00edguez	record_mexico
+rodru00edguez	marco
+happy	birthday
+love	happy
+germany	love
+rafael	marco
+worldcupfinal	record_mexico
+rafael	felicito
+large	birthday

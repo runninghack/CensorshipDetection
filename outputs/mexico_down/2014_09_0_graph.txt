@@ -1,0 +1,5 @@
+sentir	epn	pdte	nada	
+6569.0	20990.0	1559.0	38448.0	
+epn	nada
+epn	pdte
+sentir	nada

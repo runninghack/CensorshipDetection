@@ -1,0 +1,14 @@
+gusquijass	ven	mismos	congress	pan	nacional	casa	bienes	esquivelgerardo	chicago	tvtelehit	puertas	protesters	
+3909.0	4792.0	906.0	248.0	2006.0	16111.0	14100.0	762.0	309.0	592.0	9636.0	1378.0	944.0	
+casa	esquivelgerardo
+gusquijass	ven
+nacional	esquivelgerardo
+ven	chicago
+tvtelehit	puertas
+nacional	puertas
+congress	protesters
+casa	bienes
+pan	bienes
+ven	casa
+gusquijass	mismos
+nacional	protesters

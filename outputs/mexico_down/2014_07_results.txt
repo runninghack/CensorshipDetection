@@ -1,0 +1,5 @@
+0,2014-07-13_8_graph.txt,germany	rodru00edguez	rafael	love	worldcupfinal	happy	record_mexico	large	marco	felicito	birthday
+1,2014-07-13_8_graph.txt,germany	rodru00edguez	rafael	love	worldcupfinal	happy	record_mexico	large	marco	felicito	birthday
+2,2014-07-13_8_graph.txt,germany	rodru00edguez	rafael	love	worldcupfinal	happy	record_mexico	large	marco	felicito	birthday
+3,2014-07-14_9_graph.txt,iqueluis	u00a1ayudame	algo	sigo	mtvhottest	minutos	ningu00fan	decisiu00f3n	coldplay	deberu00eda	que	lindas_coldplay
+4,2014-07-13_8_graph.txt,germany	rodru00edguez	rafael	love	worldcupfinal	happy	record_mexico	large	marco	felicito	birthday

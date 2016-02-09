@@ -48,7 +48,7 @@ public class MulticoreRunner {
 		Writer fileWriter = new BufferedWriter(new OutputStreamWriter(
 			    new FileOutputStream(result_folder + date + "_results.txt"), "UTF-8"));
 		
-		for(int i=0;i<5;i++){
+		for(int i=0;i<1;i++){
 			System.out.println(i);
 			run_month(month_path);
 			String words_String= this.temp_words.stream().collect(Collectors.joining("\t"));
@@ -278,8 +278,7 @@ public class MulticoreRunner {
 	public static void main(String[] args) throws IOException {
 		//run_multicore();
 		//run_single_month("data/venezuela/2014_02/", "2014-02-01_5_graph.txt");
-		//run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_01/","/home/zhanglei/results/venezuela/up/","up");
-		run_instance("data/mexico/2014_01/","output/venezuela/up/","up");
+		run_instance("data/mexico/2014_11/","outputs/test_down/","down");
 
 	}
 

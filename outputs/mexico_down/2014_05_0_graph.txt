@@ -1,0 +1,17 @@
+don	mayo	pachuca	maestro	lorenzo	echuayffet	gobiernohidalgo	podru00edas	lu00edmite	consejo	recuerda	debemos	
+2467.0	14511.0	8188.0	5399.0	3310.0	626.0	7474.0	2969.0	650.0	2067.0	6527.0	1638.0	
+mayo	gobiernohidalgo
+gobiernohidalgo	consejo
+pachuca	consejo
+recuerda	debemos
+lu00edmite	recuerda
+maestro	gobiernohidalgo
+podru00edas	recuerda
+lorenzo	consejo
+don	lorenzo
+maestro	debemos
+maestro	echuayffet
+lu00edmite	debemos
+mayo	maestro
+pachuca	gobiernohidalgo
+mayo	pachuca

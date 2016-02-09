@@ -278,13 +278,20 @@ public class Final_venezuela_down2 {
 	public static void main(String[] args) throws IOException {
 		//run_multicore();
 		//run_single_month("data/venezuela/2014_02/", "2014-02-01_5_graph.txt");
-		//run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_01/","/home/zhanglei/results/venezuela/up/","up");
-		run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_07/","/home/zhanglei/results/venezuela/down/","down");
-		run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_08/","/home/zhanglei/results/venezuela/down/","down");
-		run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_09/","/home/zhanglei/results/venezuela/down/","down");
-		run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_10/","/home/zhanglei/results/venezuela/down/","down");
-		run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_11/","/home/zhanglei/results/venezuela/down/","down");
-		run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_12/","/home/zhanglei/results/venezuela/down/","down");
+		//run_instance("c:/data/venezuela/2014_01/","/home/zhanglei/results/venezuela/up/","up");
+//		run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_07/","/home/zhanglei/results/venezuela/down/","down");
+//		run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_08/","/home/zhanglei/results/venezuela/down/","down");
+//		run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_09/","/home/zhanglei/results/venezuela/down/","down");
+//		run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_10/","/home/zhanglei/results/venezuela/down/","down");
+//		run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_11/","/home/zhanglei/results/venezuela/down/","down");
+//		run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_12/","/home/zhanglei/results/venezuela/down/","down");
+		
+		run_instance("c:/data/venezuela/2014_07/","c:/results/venezuela/down/","down");
+		run_instance("c:/data/venezuela/2014_08/","c:/results/venezuela/down/","down");
+		run_instance("c:/data/venezuela/2014_09/","c:/results/venezuela/down/","down");
+		run_instance("c:/data/venezuela/2014_10/","c:/results/venezuela/down/","down");
+		run_instance("c:/data/venezuela/2014_11/","c:/results/venezuela/down/","down");
+		run_instance("c:/data/venezuela/2014_12/","c:/results/venezuela/down/","down");
 
 	}
 

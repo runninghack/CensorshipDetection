@@ -1,0 +1,21 @@
+ayotzinapa	mayor	sol	navarreterecibemillonesdeaguirre	eltiotonysoy	acapulco	asesinan	desaparecidos	marcha	parcial	losmillonesdelprd	pago	
+34230.0	4589.0	5617.0	10315.0	611.0	2072.0	926.0	11028.0	6151.0	1388.0	3776.0	1199.0	
+acapulco	asesinan
+desaparecidos	marcha
+asesinan	desaparecidos
+ayotzinapa	eltiotonysoy
+losmillonesdelprd	pago
+ayotzinapa	mayor
+ayotzinapa	losmillonesdelprd
+eltiotonysoy	marcha
+ayotzinapa	marcha
+navarreterecibemillonesdeaguirre	losmillonesdelprd
+ayotzinapa	navarreterecibemillonesdeaguirre
+sol	parcial
+mayor	marcha
+sol	navarreterecibemillonesdeaguirre
+eltiotonysoy	desaparecidos
+ayotzinapa	desaparecidos
+navarreterecibemillonesdeaguirre	pago
+sol	losmillonesdelprd
+desaparecidos	losmillonesdelprd

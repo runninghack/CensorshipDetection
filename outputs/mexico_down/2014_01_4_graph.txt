@@ -1,0 +1,9 @@
+u2665	u2716	fuerzas	empieza	sigueme	u2764ufe0f	amo	au00f1os	
+4026.0	758.0	2081.0	1042.0	8106.0	3562.0	11732.0	11179.0	
+u2665	sigueme
+empieza	au00f1os
+fuerzas	amo
+u2716	sigueme
+u2764ufe0f	amo
+u2665	amo
+amo	au00f1os

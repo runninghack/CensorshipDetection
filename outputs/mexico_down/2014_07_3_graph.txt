@@ -1,0 +1,16 @@
+iqueluis	u00a1ayudame	algo	sigo	mtvhottest	minutos	ningu00fan	decisiu00f3n	coldplay	deberu00eda	que	lindas_coldplay	
+787.0	50.0	20978.0	24565.0	22874.0	4758.0	1704.0	1146.0	1357.0	2401.0	584097.0	284.0	
+u00a1ayudame	sigo
+minutos	que
+mtvhottest	que
+deberu00eda	que
+iqueluis	u00a1ayudame
+coldplay	que
+mtvhottest	coldplay
+algo	ningu00fan
+algo	mtvhottest
+algo	sigo
+decisiu00f3n	que
+iqueluis	sigo
+mtvhottest	lindas_coldplay
+coldplay	lindas_coldplay

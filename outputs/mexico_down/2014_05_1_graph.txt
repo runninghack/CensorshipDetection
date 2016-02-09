@@ -1,0 +1,13 @@
+pase	estaru00e9	estatal	sinhue	amo	besos	sntenacional	magisterio	cambios	reformaeducativa	quiero	
+5475.0	1994.0	1420.0	146.0	20301.0	5910.0	670.0	134.0	1978.0	117.0	36736.0	
+estatal	magisterio
+magisterio	reformaeducativa
+pase	amo
+sinhue	sntenacional
+estatal	reformaeducativa
+estaru00e9	estatal
+amo	quiero
+besos	quiero
+pase	estaru00e9
+sntenacional	magisterio
+cambios	reformaeducativa

@@ -1,0 +1,13 @@
+algu00fan	reconocimiento	sigas	rbasuraxalimentos	carrera	sentimientos	pensando	seru00e1	orgullosamenteconalep	importante	mejor	
+4812.0	1113.0	1709.0	2825.0	2266.0	3455.0	3015.0	12148.0	1134.0	7008.0	38985.0	
+algu00fan	seru00e1
+reconocimiento	rbasuraxalimentos
+seru00e1	mejor
+pensando	seru00e1
+pensando	mejor
+reconocimiento	orgullosamenteconalep
+carrera	orgullosamenteconalep
+sigas	mejor
+rbasuraxalimentos	importante
+algu00fan	importante
+sigas	sentimientos

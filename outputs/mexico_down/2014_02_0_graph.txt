@@ -1,0 +1,7 @@
+nunca	fam	su00ed	iqueemma	mis	vida	
+27002.0	457.0	14352.0	6682.0	27380.0	46020.0	
+fam	mis
+nunca	mis
+su00ed	vida
+nunca	vida
+nunca	iqueemma
