@@ -145,6 +145,12 @@ public class Final_mexico_down1 {
 			c2[i] = c[i];
 		}
 		
+		//return if #nodes or #edges are too few
+		if(lambdas.length < 300 || (apdm.inputData.edges.keySet().size()/lambdas.length)<3){
+			return;
+		}
+				
+		
 		//detect only up or down
 		if(this.up_down.equals("down")){
 			for(int i=0;i<c.length;i++){
@@ -278,12 +284,12 @@ public class Final_mexico_down1 {
 	public static void main(String[] args) throws IOException {
 		//run_multicore();
 		//run_single_month("data/venezuela/2014_02/", "2014-02-01_5_graph.txt");
-		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_01/","/home/zhanglei/results/mexico/down/","down");
-		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_02/","/home/zhanglei/results/mexico/down/","down");
-		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_03/","/home/zhanglei/results/mexico/down/","down");
-		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_04/","/home/zhanglei/results/mexico/down/","down");
-		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_05/","/home/zhanglei/results/mexico/down/","down");
-		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_06/","/home/zhanglei/results/mexico/down/","down");
+		//run_instance("/home/rrtao/twitter/preprocessing/mexico/aggregate_graph/results/edge_20_dist_4_adj_2/down/2014_01/","/home/zhanglei/results/mexico/down/","down");
+		run_instance("/home/rrtao/twitter/preprocessing/mexico/aggregate_graph/results/edge_20_dist_4_adj_2/down/2014_02/","/home/zhanglei/results/mexico/down/","down");
+		run_instance("/home/rrtao/twitter/preprocessing/mexico/aggregate_graph/results/edge_20_dist_4_adj_2/down/2014_03/","/home/zhanglei/results/mexico/down/","down");
+		run_instance("/home/rrtao/twitter/preprocessing/mexico/aggregate_graph/results/edge_20_dist_4_adj_2/down/2014_04/","/home/zhanglei/results/mexico/down/","down");
+		run_instance("/home/rrtao/twitter/preprocessing/mexico/aggregate_graph/results/edge_20_dist_4_adj_2/down/2014_05/","/home/zhanglei/results/mexico/down/","down");
+		run_instance("/home/rrtao/twitter/preprocessing/mexico/aggregate_graph/results/edge_20_dist_4_adj_2/down/2014_06/","/home/zhanglei/results/mexico/down/","down");
 		
 //		run_instance("c:/data/mexico/2014_01/","c:/results/mexico/down/","down");
 //		run_instance("c:/data/mexico/2014_02/","c:/results/mexico/down/","down");

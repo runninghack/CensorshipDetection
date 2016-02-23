@@ -65,9 +65,7 @@ public class Final_mexico_down2 {
 		System.out.println(folder_path);
 		long startTime=System.currentTimeMillis();
 		File folder = new File(folder_path);
-		File[] files = folder.listFiles();
-
-		List<File> listOfFiles=Arrays.asList(files);
+		List<File> listOfFiles=Arrays.asList(folder.listFiles());
 		List<File> graphFiles = listOfFiles.stream()
 			    .filter(f -> f.getName().contains("graph")).collect(Collectors.toList());
 		this.max_score = 0;
@@ -144,6 +142,12 @@ public class Final_mexico_down2 {
 		for(int i=0;i<c.length;i++){
 			c2[i] = c[i];
 		}
+		
+		//return if #nodes or #edges are too few
+		if(lambdas.length < 300 || (apdm.inputData.edges.keySet().size()/lambdas.length)<3){
+			return;
+		}
+		
 		
 		//detect only up or down
 		if(this.up_down.equals("down")){
@@ -279,12 +283,12 @@ public class Final_mexico_down2 {
 		//run_multicore();
 		//run_single_month("data/venezuela/2014_02/", "2014-02-01_5_graph.txt");
 		//run_instance("/home/tayu/venezuela/aggregate_graph/outputs/2014_01/","/home/zhanglei/results/venezuela/up/","up");
-		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_07/","/home/zhanglei/results/mexico/down/","down");
-		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_08/","/home/zhanglei/results/mexico/down/","down");
-		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_09/","/home/zhanglei/results/mexico/down/","down");
-		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_10/","/home/zhanglei/results/mexico/down/","down");
-		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_11/","/home/zhanglei/results/mexico/down/","down");
-		run_instance("/home/tayu/mexico/aggregate_graph/outputs/2014_12/","/home/zhanglei/results/mexico/down/","down");
+		run_instance("/home/rrtao/twitter/preprocessing/mexico/aggregate_graph/results/edge_20_dist_4_adj_2/down/2014_07/","/home/zhanglei/results/mexico/down/","down");
+		run_instance("/home/rrtao/twitter/preprocessing/mexico/aggregate_graph/results/edge_20_dist_4_adj_2/down/2014_08/","/home/zhanglei/results/mexico/down/","down");
+		run_instance("/home/rrtao/twitter/preprocessing/mexico/aggregate_graph/results/edge_20_dist_4_adj_2/down/2014_09/","/home/zhanglei/results/mexico/down/","down");
+		run_instance("/home/rrtao/twitter/preprocessing/mexico/aggregate_graph/results/edge_20_dist_4_adj_2/down/2014_10/","/home/zhanglei/results/mexico/down/","down");
+		run_instance("/home/rrtao/twitter/preprocessing/mexico/aggregate_graph/results/edge_20_dist_4_adj_2/down/2014_11/","/home/zhanglei/results/mexico/down/","down");
+		run_instance("/home/rrtao/twitter/preprocessing/mexico/aggregate_graph/results/edge_20_dist_4_adj_2/down/2014_12/","/home/zhanglei/results/mexico/down/","down");
 		
 //		run_instance("c:/data/mexico/2014_07/","c:/results/mexico/down/","down");
 //		run_instance("c:/data/mexico/2014_08/","c:/results/mexico/down/","down");
